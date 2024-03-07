@@ -1,0 +1,5 @@
+# SETTINGS FOR PRODUCTION SERVER
+
+from .base import *
+
+ALLOWED_HOSTS = ['*']
